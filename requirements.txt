@@ -2,3 +2,7 @@ mediapipe
 opencv-python
 numpy
 ipython
+plotly
+scipy==1.8.1
+scikit-image==0.19.3
+pandas==1.4.2
